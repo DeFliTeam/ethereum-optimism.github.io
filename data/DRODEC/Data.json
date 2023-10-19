@@ -10,7 +10,11 @@
       "address": "0xe1eb70B51C87e927d1a823Dbd478C27AB0F777F1"
     },
     "optimism": {
-      "address": "0xDc486E3cA8A1BD88d964c517E26a1e5ae3277AE1"
+      "address": "0xDc486E3cA8A1BD88d964c517E26a1e5ae3277AE1" 
+    },
+
+    "base": { 
+      "address": "0xa179f57920bf958528771ffa35694a3325f042c7" 
     }
    
   }
